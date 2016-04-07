@@ -1,0 +1,24 @@
+{
+  "author": "sterpe",
+  "bugs": {
+    "url": "https://github.com/sterpe/gx-foo.js/issues"
+  },
+  "description": "",
+  "gxDependencies": [
+    {
+      "author": "sterpe",
+      "hash": "QmQV3Sz1mcaJmeP5yrqjVXBE2R2swNmyhxCs6s7jkfLPYB",
+      "name": "gx-quux.js",
+      "version": "0.1.0"
+    }
+  ],
+  "gxVersion": "0.4.0",
+  "language": "js",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "gx-foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" \u0026\u0026 exit 1"
+  },
+  "version": "0.0.0"
+}
